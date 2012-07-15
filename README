@@ -1,0 +1,3 @@
+Usage: cookies.py COOKIES4.DAT
+       tofiles format: netscape cookeis.txt
+       output to ./data/cookies.txt
